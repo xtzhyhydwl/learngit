@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new brunch is quick & simple.
 Creating a new brunch is quick AND simple.
+we can ban Fast Forward Mode by the order "--no-ff".
