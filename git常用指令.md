@@ -52,6 +52,12 @@ git stash drop stash@{n} \\手动删除代号为n的储藏
 git stash pop stash@{n} \\将代号为n的储藏释放（自动删除储藏）
 ~~~
 
+## git remote
+
+~~~
+git remote (-v) \\显示远程库信息（详细）
+~~~
+
 # 其它操作（
 
 ## 创建并初始化git库
